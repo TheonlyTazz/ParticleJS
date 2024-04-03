@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.tazz.particle.particlejs.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "ParticleJS.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
